@@ -1,5 +1,5 @@
 {
-  "name": "open-browser-webpack-plugin",
+  "name": "open-browser-webpack-plugin-manjaro",
   "version": "0.0.5",
   "description": "Opens the browser when Webpack is ready serving your files.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baldore/webpack-open-plugin.git"
+    "url": "git+https://github.com/goodteas/webpack-open-plugin-manjaro.git"
   },
   "keywords": [
     "webpack",
@@ -24,9 +24,9 @@
   "author": "Camilo Orrego",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/baldore/webpack-open-plugin/issues"
+    "url": "https://github.com/goodteas/webpack-open-plugin-manjaro/issues"
   },
-  "homepage": "https://github.com/baldore/webpack-open-plugin#readme",
+  "homepage": "https://github.com/goodteas/webpack-open-plugin-manjaro#readme",
   "dependencies": {
     "open": "^8.4.0"
   },
